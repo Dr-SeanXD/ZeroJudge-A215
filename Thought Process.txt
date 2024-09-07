@@ -1,0 +1,4 @@
+Assuming N + (N+1) + (N+2) + … + (N+K) ≥ M, use a for loop to sum all the numbers from N to N+K, where the default value of K is 1. 
+Increase K by 1 each time the loop ends, with the termination condition set to when the sum is greater than or equal to M. 
+Set a variable to store the sum of the numbers, initially set to N, and add N+K to it each time the loop runs. 
+Finally, output K, which represents how many times the for loop ran.
